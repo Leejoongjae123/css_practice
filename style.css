@@ -13,11 +13,17 @@ h1{
 .contents1{
   font-size:20px;
   font-weight: 100;
+  color:#000
 }
 
 .result{
   font-size: 24px;
+  color:#000
 
+}
+
+.container>div{
+  color:#000
 }
 
 .intro_bg{
@@ -194,6 +200,10 @@ img{
   flex:1;
   padding:20px;
   
+}
+
+.contents2{
+  color:#000
 }
 .main_text2{
   width:100%;
